@@ -1,4 +1,4 @@
-![logo](https://github.com/img1.jpeg)
+
 <h1 align="center">Hi 👋, I'm Prerna Tyagi</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
