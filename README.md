@@ -1,4 +1,4 @@
-![logo](https://www.google.com/imgres?q=give%20the%20banner%20for%20computer%20science%20student&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fcomputer-science-typographic-header-concept-260nw-1751638622.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcomputer-science-banner&docid=GoLBOkG9Ntet0M&tbnid=ADq3AnaZRg2GrM&vet=12ahUKEwivgKGNxMuNAxX9wzgGHZf_JzoQM3oECBwQAA..i&w=595&h=280&hcb=2&ved=2ahUKEwivgKGNxMuNAxX9wzgGHZf_JzoQM3oECBwQAA)
+![logo](https://github.com/)
 <h1 align="center">Hi 👋, I'm Prerna Tyagi</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
